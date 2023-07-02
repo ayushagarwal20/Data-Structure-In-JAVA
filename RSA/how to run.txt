@@ -1,2 +1,0 @@
-Link_Disjoint link=new Link_Disjoint(s,t,graph);
-        HashMap<ArrayList<Integer>,Integer> arr=link.call();
